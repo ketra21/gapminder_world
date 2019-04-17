@@ -1,0 +1,3 @@
+youtube numpy，pandas视频学习：https://www.youtube.com/watch?annotation_id=annotation_1881127747&feature=iv&index=13&list=PLXO45tsB95cKKyC45gatc8wEc3Ue7BlI4&src_vid=H9jqCR4z7Pw&v=HuGMmE97LnY
+
+Python之numpy教程（二）：运算、索引、切片https://blog.csdn.net/liangzuojiayi/article/details/51534164
